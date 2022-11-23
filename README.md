@@ -4,6 +4,9 @@
 
 https://www.youtube.com/watch?v=Ms_jTcERvMY
 
+https://raw.githubusercontent.com/RodrigoMvs123/Is-DevOps-right-for-you-/main/README.md
+
+
 
 
 Is DevOps profession right for you ?
